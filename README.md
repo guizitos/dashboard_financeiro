@@ -35,25 +35,25 @@ G-Finance é um aplicativo completo de gestão financeira pessoal que permite co
 <div align="center">
 
 ### Dashboard Principal
-<img src="screenshots/dashboard.jpeg" alt="Dashboard" width="250"/>
+<img src="screenshots/dashboard.JPEG" alt="Dashboard" width="250"/>
 
 ### Adicionar Receita
-<img src="screenshots/add_receita.jpeg" alt="Adicionar Receita" width="250"/>
+<img src="screenshots/add_receita.JPEG" alt="Adicionar Receita" width="250"/>
 
 ### Adicionar Despesa
-<img src="screenshots/add_despesa.jpeg" alt="Adicionar Despesa" width="250"/>
+<img src="screenshots/add_despesa.JPEG" alt="Adicionar Despesa" width="250"/>
 
 ### Transações Mensais
-<img src="screenshots/monthly_transactions.jpeg" alt="Transações Mensais" width="250"/>
+<img src="screenshots/monthly_transactions.JPEG" alt="Transações Mensais" width="250"/>
 
 ### Editar Transação
-<img src="screenshots/edit_transaction.jpeg" alt="Editar Transação" width="250"/>
+<img src="screenshots/edit_transaction.JPEG" alt="Editar Transação" width="250"/>
 
 ### Gráficos e Análises
-<img src="screenshots/charts.jpeg" alt="Gráficos" width="250"/>
+<img src="screenshots/charts.JPEG" alt="Gráficos" width="250"/>
 
 ### Seletor de Ano
-<img src="screenshots/month_selector.jpeg" alt="Seletor de Ano" width="250"/>
+<img src="screenshots/month_selector.JPEG" alt="Seletor de Ano" width="250"/>
 
 > **Nota**: Adicione suas capturas de tela na pasta `screenshots/` na raiz do projeto.
 
