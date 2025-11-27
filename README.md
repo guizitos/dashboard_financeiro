@@ -55,7 +55,6 @@ G-Finance é um aplicativo completo de gestão financeira pessoal que permite co
 ### Seletor de Ano
 <img src="screenshots/month_selector.JPEG" alt="Seletor de Ano" width="250"/>
 
-> **Nota**: Adicione suas capturas de tela na pasta `screenshots/` na raiz do projeto.
 
 </div>
 
