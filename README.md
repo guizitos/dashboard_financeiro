@@ -8,8 +8,6 @@
 
 Um aplicativo moderno de controle financeiro pessoal desenvolvido em Flutter, com design Material 3 e animações fluidas.
 
-[Funcionalidades](#-funcionalidades) • [Arquitetura](#-arquitetura) • [Instalação](#-instalação) • [Estrutura](#-estrutura-do-projeto) • [Tecnologias](#-tecnologias)
-
 </div>
 
 ---
