@@ -485,8 +485,3 @@ Para dúvidas ou sugestões, abra uma [issue](https://github.com/guizitos/dashbo
 
 ---
 
-<div align="center">
-
-**[⬆ Voltar ao topo](#-g-finance---dashboard-financeiro)**
-
-</div>
