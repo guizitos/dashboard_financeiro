@@ -481,7 +481,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📧 Contato
 
-Para dúvidas ou sugestões, abra uma [issue](https://github.com/seu-usuario/dashboard_financeiro/issues) no repositório.
+Para dúvidas ou sugestões, abra uma [issue](https://github.com/guizitos/dashboard_financeiro/issues) no repositório.
 
 ---
 
