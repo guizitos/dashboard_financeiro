@@ -331,7 +331,7 @@ CategoryVisual getCategoryVisual(String name, ColorScheme scheme) {
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/dashboard_financeiro.git
+git clone https://github.com/guizitos/dashboard_financeiro.git
 cd dashboard_financeiro
 ```
 
