@@ -8,8 +8,6 @@
 
 Um aplicativo moderno de controle financeiro pessoal desenvolvido em Flutter, com design Material 3 e animações fluidas.
 
-[Funcionalidades](#-funcionalidades) • [Arquitetura](#-arquitetura) • [Instalação](#-instalação) • [Estrutura](#-estrutura-do-projeto) • [Tecnologias](#-tecnologias)
-
 </div>
 
 ---
@@ -55,7 +53,6 @@ G-Finance é um aplicativo completo de gestão financeira pessoal que permite co
 ### Seletor de Ano
 <img src="screenshots/month_selector.JPEG" alt="Seletor de Ano" width="250"/>
 
-> **Nota**: Adicione suas capturas de tela na pasta `screenshots/` na raiz do projeto.
 
 </div>
 
@@ -332,7 +329,7 @@ CategoryVisual getCategoryVisual(String name, ColorScheme scheme) {
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/dashboard_financeiro.git
+git clone https://github.com/guizitos/dashboard_financeiro.git
 cd dashboard_financeiro
 ```
 
@@ -482,12 +479,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📧 Contato
 
-Para dúvidas ou sugestões, abra uma [issue](https://github.com/seu-usuario/dashboard_financeiro/issues) no repositório.
+Para dúvidas ou sugestões, abra uma [issue](https://github.com/guizitos/dashboard_financeiro/issues) no repositório.
 
 ---
 
-<div align="center">
-
-**[⬆ Voltar ao topo](#-g-finance---dashboard-financeiro)**
-
-</div>
