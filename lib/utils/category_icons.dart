@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Ícones e cores para categorias
 class CategoryVisual {
   final IconData icon;
   final Color color;

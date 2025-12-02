@@ -3,7 +3,7 @@ import '../../data/db_provider.dart';
 import '../../models/category.dart';
 import 'category_event.dart';
 import 'category_state.dart';
-
+//Lógica de categorias
 class CategoryBloc extends Bloc<CategoryEvent, CategoryState> {
   CategoryBloc() : super(CategoryInitial()) {
     on<LoadCategories>((event, emit) async {

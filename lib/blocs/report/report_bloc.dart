@@ -3,7 +3,7 @@ import '../../data/db_provider.dart';
 import '../../models/transaction.dart';
 import 'report_event.dart';
 import 'report_state.dart';
-
+//Relatórios e gráficos
 class ReportBloc extends Bloc<ReportEvent, ReportState> {
   ReportBloc() : super(ReportInitial()) {
     on<GenerateReport>((event, emit) async {

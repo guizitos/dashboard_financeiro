@@ -7,7 +7,7 @@ import 'blocs/transaction/transaction_bloc.dart';
 import 'blocs/category/category_bloc.dart';
 import 'blocs/filter/filter_bloc.dart';
 import 'blocs/report/report_bloc.dart';
-
+//Ponto de entrada principal do aplicativo
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 

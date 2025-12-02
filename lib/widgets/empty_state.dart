@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// Widget para exibir um estado vazio com título, mensagem, ícone e ação opcional
 class EmptyState extends StatelessWidget {
   final String title;
   final String message;

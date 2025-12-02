@@ -1,6 +1,6 @@
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
-
+//Conexão SQLite, migrations, seed
 class DBProvider {
   DBProvider._();
   static final DBProvider db = DBProvider._();

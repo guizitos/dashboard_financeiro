@@ -9,7 +9,7 @@ import '../blocs/category/category_state.dart';
 import '../models/transaction.dart';
 import '../models/category.dart';
 import '../utils/category_icons.dart';
-
+//Tela para adicionar transações rapidamente
 class QuickAddTransactionScreen extends StatefulWidget {
   final bool isExpense;
   final int? initialMonth;

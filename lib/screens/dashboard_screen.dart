@@ -13,7 +13,7 @@ import '../widgets/empty_state.dart';
 import 'quick_add_transaction_screen.dart';
 import '../utils/category_icons.dart';
 import 'monthly_transactions_screen.dart';
-
+// Tela principal do dashboard
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});
   @override

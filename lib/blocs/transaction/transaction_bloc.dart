@@ -3,7 +3,7 @@ import 'transaction_event.dart';
 import 'transaction_state.dart';
 import '../../data/db_provider.dart';
 import '../../models/transaction.dart';
-
+//Lógica de transações
 class TransactionBloc extends Bloc<TransactionEvent, TransactionState> {
   TransactionBloc() : super(TransactionInitial()) {
     on<LoadTransactions>((event, emit) async {

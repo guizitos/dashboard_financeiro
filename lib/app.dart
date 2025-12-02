@@ -2,10 +2,9 @@ import 'package:flutter/material.dart';
 import 'screens/dashboard_screen.dart';
 
 // Paleta personalizada
-// Ajuste de nuances: violeta um pouco mais vibrante, amarelo equilibrado
-const Color _violet = Color(0xFF6D28D9); // violeta (ajustado)
-const Color _yellow = Color(0xFFFFD54F); // amarelo (ligeiramente mais claro)
-
+const Color _violet = Color(0xFF6D28D9); // violeta 
+const Color _yellow = Color(0xFFFFD54F); // amarelo 
+// Aplicativo principal
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

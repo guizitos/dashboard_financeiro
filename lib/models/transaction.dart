@@ -5,7 +5,7 @@ class TransactionModel {
   final DateTime date;
   final int categoryId;
   final bool isExpense;
-
+//Modelo de transação
   TransactionModel({
     this.id,
     required this.title,
