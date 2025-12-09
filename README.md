@@ -162,7 +162,6 @@ lib/
 │
 ├── repositories/
 │   ├── transaction_repository.dart    # CRUD + queries transações
-│   └── category_repository.dart       # CRUD categorias
 │
 ├── screens/
 │   ├── dashboard_screen.dart          # Tela principal
